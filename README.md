@@ -6,10 +6,10 @@ Teaching has been one of the most fulfilling aspects of my academic career so fa
 #### Semester-long courses:
 - **Fall 2019, 2018**: COE 3803 - Data Analytics for Engineers
 
-DAE was an introductory machine learning and data science class aimed at undergraduate juniors and seniors across the <a href="https://coe.gatech.edu/" target="_blank">College of Engineering</a> at GaTech. In addition to carrying out the usual TA responsibilities of holding office hours, grading homework, etc. I was also actively involved in the development of the course material and running of DAE by virtue of it being a new course taught by my advisor <a href="https://bme.gatech.edu/bme/faculty/Eva-Dyer" target="_blank">Dr. Eva Dyer</a> along with <a href="http://chbe.gatech.edu/people/andrew-j-medford" target="_blank">Dr. A.J. Medford</a>!
+DAE was an interdisciplinary, introductory machine learning and data science class aimed at undergraduate juniors and seniors across the <a href="https://coe.gatech.edu/" target="_blank">College of Engineering</a> at GaTech. In addition to carrying out the usual TA responsibilities of holding office hours, grading homework, etc. I was also actively involved in the development of the course material and running of DAE by virtue of it being a new course taught by my advisor <a href="https://bme.gatech.edu/bme/faculty/Eva-Dyer" target="_blank">Dr. Eva Dyer</a> along with <a href="http://chbe.gatech.edu/people/andrew-j-medford" target="_blank">Dr. A.J. Medford</a>!
 - **Spring 2018**: ECE 4813 - Mathematical Foundations of Data Science
 
-MFDS was a new, special topics course taught by <a href="https://u.osu.edu/kiryung/" target="_blank">Dr. Kiryung Lee</a> which introduced senior undergraduates to a number of foundational topics in machine learning and data science. I was the sole TA for the class and had the responsibility of grading homework and conducting (some of my most popular and appreciated) office hours.
+MFDS was a new, special topics course taught by <a href="https://u.osu.edu/kiryung/" target="_blank">Dr. Kiryung Lee</a> which introduced senior ECE undergraduates to a number of foundational topics in machine learning and data science. I was the sole TA for the class and had the responsibility of grading homework and conducting (some of my most popular and appreciated) office hours.
 
 #### Workshops and short courses
 - **June 2019**: Hands-On Tech Day Camp, GaTech. [<a href="https://github.com/nerdslab/HandsOnTech" target="_blank">Github repository</a>]
