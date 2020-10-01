@@ -1,3 +1,5 @@
+### Teaching and Mentoring Experience
+
 Teaching has been one of the most fulfilling aspects of my academic career so far, and I've had the opportunity to contribute to multiple great courses over time, mostly in the capacity of a teaching assistant. I've also been lucky enough to have the chance to work with and mentor a few undergraduate students conducting research in the NerDS lab. 
 
 ### Teaching Assistant
@@ -18,4 +20,4 @@ The <a href="https://www.ece.gatech.edu/outreach/hot-days#:~:text=The%20H.O.T.,g
 
 ### Junior Instructor
 
-### Mentoring Experience
+### Mentees
