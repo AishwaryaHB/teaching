@@ -18,7 +18,7 @@ The <a href="https://www.ece.gatech.edu/outreach/hot-days#:~:text=The%20H.O.T.,g
 
 - May 2019: Deep Learning for Microscopy Image Analysis, Marine Biological Laboratory
 
-<a href="https://www.mbl.edu/education/courses/deep-learning-for-microscopy-image-analysis/" target="_blank">DL@MBL</a>, is a short summer course meant to familiarize researchers in the life sciences with state-of-the-art deep learning techniques, tools, and frameworks that could be used to solve problems involving microscopy image analysis in their research. I was happy to accompany Eva (who was a course faculty member) as one of her TAs for the 2019 offering of the course, and worked with the attendees during labs. I also had the chance to eat some great sea food and tour the Marine Biological Lab + Woods Hole during my visit!
+<a href="https://www.mbl.edu/education/courses/deep-learning-for-microscopy-image-analysis/" target="_blank">DL@MBL</a> is a short summer course meant to familiarize researchers in the life sciences with state-of-the-art deep learning techniques, tools, and frameworks that could be used to solve problems involving microscopy image analysis in their research. I was happy to accompany Eva (who was a course faculty member) as one of her TAs in 2019, and worked with the attendees during labs covering topics ranging from introductory image processing to advanced deep learning models for image denoising, segmentation and classification. I also had the chance to eat some great sea food and tour the Marine Biological Lab + Woods Hole during my visit!
 
 ### Junior Instructor
 - June/July 2016: Embedded Systems and IoT, Eduvance.
