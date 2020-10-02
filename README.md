@@ -1,6 +1,6 @@
 ### Teaching and Mentoring Experience
 
-Teaching has been one of the most fulfilling aspects of my academic career so far, and I've had the opportunity to contribute to multiple great courses over time, mostly in the capacity of a teaching assistant. I've also been lucky enough to have the chance to work with and mentor a few undergraduate students conducting research in the <a href="http://dyerlab.gatech.edu/" target="_blank">NerDS lab</a>. 
+Teaching has been one of the most fulfilling aspects of my academic career so far, and I've had the opportunity to contribute to multiple great courses over time. I've also been lucky enough to have the chance to work with and mentor a few undergraduate students conducting research in the <a href="http://dyerlab.gatech.edu/" target="_blank">NerDS lab</a>. 
 
 ### Teaching Assistant
 #### Semester-long courses:
