@@ -1,6 +1,6 @@
 ### Teaching and Mentoring Experience
 
-I've been lucky to have had the opportunity to teach, mentor, and work with a number of other, fellow students. Quite a few of these opporunities presented themselves as TAships that I've held over the years while others have come in the form of collaborations that I've had with undergraduates conducting research in the <a href="http://dyerlab.gatech.edu/" target="_blank">NerDS lab</a>.
+I've been lucky to have had the opportunity to teach, mentor, and work with a number of smart and motivated students. Quite a few of these opporunities presented themselves as TAships that I've held over the years while others have come in the form of collaborations that I've had with fellow students conducting research in the <a href="http://dyerlab.gatech.edu/" target="_blank">NerDS lab</a>.
 
 ### Teaching Assistant
 #### Semester-long courses:
