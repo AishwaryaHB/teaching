@@ -1,6 +1,6 @@
 ### Teaching and Mentoring Experience
 
-Teaching has been one of the most fulfilling aspects of my academic career so far, and I've had the opportunity to contribute to multiple great courses over time. I've also been lucky enough to have had the chance to work with and mentor a few undergraduate students conducting research in the <a href="http://dyerlab.gatech.edu/" target="_blank">NerDS lab</a>. 
+I've been lucky to have had the opportunity to teach, mentor, and work with a number of other, fellow students. Quite a few of these opporunities presented themselves as TAships that I've held over the years while others have come in the form of collaborations that I've had with undergraduates conducting research in the <a href="http://dyerlab.gatech.edu/" target="_blank">NerDS lab</a>.
 
 ### Teaching Assistant
 #### Semester-long courses:
@@ -14,7 +14,7 @@ MFDS was a new, special topics course taught by <a href="https://u.osu.edu/kiryu
 #### Workshops and short courses
 - June 2019: __Hands-On Tech Day Camp__, GaTech. [<a href="https://github.com/nerdslab/HandsOnTech" target="_blank">Github repository</a>]
 
-The <a href="https://www.ece.gatech.edu/outreach/hot-days#:~:text=The%20H.O.T.,graduates%20majoring%20in%20this%20field." target="blank">H.O.T. Days @ Georgia Tech camp</a> is a one-week-long summer day camp designed to introduce students attending high schools in Georgia to electrical and computer engineering (ECE) concepts. Under <a href="https://bme.gatech.edu/bme/faculty/Eva-Dyer" target="_blank"> Dr. Eva Dyer</a> & <a href="http://mdav.ece.gatech.edu/" target="_blank">Dr. Mark Davenport</a>, I had the opportunity to introduce ~40 rising high school juniors/seniors to image processing, convolutional neural networks, and style transfer.
+<a href="https://www.ece.gatech.edu/outreach/hot-days#:~:text=The%20H.O.T.,graduates%20majoring%20in%20this%20field." target="blank">H.O.T. Days @ Georgia Tech</a> is a one-week-long summer day camp designed to expose students attending high schools in Georgia to electrical and computer engineering (ECE) concepts and their various applications. Under <a href="https://bme.gatech.edu/bme/faculty/Eva-Dyer" target="_blank"> Dr. Eva Dyer</a> & <a href="http://mdav.ece.gatech.edu/" target="_blank">Dr. Mark Davenport</a>, I had the opportunity to introduce ~40 rising high school juniors/seniors to image processing, convolutional neural networks, and style transfer.
 
 - May 2019: __Deep Learning for Microscopy Image Analysis__, Marine Biological Laboratory
 
