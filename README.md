@@ -1,6 +1,6 @@
 ### Teaching and Mentoring Experience
 
-I've been lucky to have had the opportunity to teach, mentor, and work with a number of smart and motivated students. Quite a few of these opporunities presented themselves as TAships that I've held over the years while others have come in the form of collaborations that I've had with fellow students conducting research in the <a href="http://dyerlab.gatech.edu/" target="_blank">NerDS lab</a>.
+I've been lucky to have had the opportunity to teach, mentor, and work with a number of smart and motivated students. Quite a few of these opportunities presented themselves as TAships that I've held over the years while others have come in the form of collaborations that I've had with fellow students.
 
 ### Teaching Assistant
 #### Semester-long courses:
@@ -10,6 +10,14 @@ DAE was an interdisciplinary, introductory machine learning and data science cla
 - Spring 2018: __Mathematical Foundations of Data Science__ (ECE 4813)
 
 MFDS was a new, special topics course taught by <a href="https://u.osu.edu/kiryung/" target="_blank">Dr. Kiryung Lee</a> which introduced senior ECE undergraduates to a number of foundational topics in machine learning and data science. I was the sole TA for the class and had the responsibility of grading homework and conducting (some of my most popular and appreciated) office hours.
+
+- Summer 2021: __Professional and Technical Communications for ECE__ (ECE 3005)
+
+ECE 3005 prepares students for advanced communication tasks required in academic and professional settings. I was mainly responsible for grading homework and providing feedback on various forms of deliverables including but not limited to resumes, presentations, and technical documentation/reports.
+
+- Spring 2024: __Linear Algebra__ (MATH 1554, MATH 3406)
+
+Typical linear algebra courses covering material ranging from vector spaces and geometry of real spaces to orthogonality, SVD, to least squares and preliminary materials on Markov chains. 
 
 #### Workshops and short courses
 - June 2019: __Hands-On Tech Day Camp__, GaTech. [<a href="https://github.com/nerdslab/HandsOnTech" target="_blank">Github repository</a>]
@@ -26,4 +34,5 @@ MFDS was a new, special topics course taught by <a href="https://u.osu.edu/kiryu
 I had the opportunity to serve as one of the junior instructors for the Summer 2016 offering of <a href="https://www.eduvance.in/mbed/" target="_blank">Summer Industrial Training and Internship Program in Embedded Systems and IoT</a>, a month long course conducted by <a href="https://www.eduvance.in/" target="_blank">Eduvance</a> in collaboration with the ARM University Program, Cypress University Alliance, and Microchip Technologies. The course introduced rising seniors pursuing ECE and other related majors to embedded systems in both theory and practice with the intention of making them better prepared to execute their senior design projects.
 
 ### Mentees
-- **<a href="https://www.linkedin.com/in/joseph-miano-a5b91785/" target="_blank">Joseph Miano</a>**: During his time as an undergrad at GT, Joe and I collaborated on a project dealing with multi-scale representation learning of X-ray microtomogrphy data. Our work together eventually led to two papers, one of which was presented at <a href="https://ieeexplore.ieee.org/document/9506174" target="_blank">ICIP 2021</a> (journal submission in prep), and an extended abstract that was presented at <a href="https://alleninstitute.org/events-training/bioimage-informatics-2019/" target="_blank">BioImage Informatics 2019</a>. Joe's contrinution to this project formed a significant chunk of his undergraduate thesis.
+- **<a href="https://www.linkedin.com/in/joseph-miano-a5b91785/" target="_blank">Joseph Miano</a>**: During his time as an undergrad at GT, Joe and I collaborated on a project dealing with multi-scale representation learning of X-ray microtomogrphy data. Our work together eventually led to a paper presented at <a href="https://ieeexplore.ieee.org/document/9506174" target="_blank">ICIP 2021</a>, and an extended abstract that was presented at <a href="https://alleninstitute.org/events-training/bioimage-informatics-2019/" target="_blank">BioImage Informatics 2019</a>. Joe's contribution to this project formed a significant chunk of his undergraduate thesis.
+- **<a href="https://suheecho.com/" target="_blank">Suhee Cho</a>**: Suhee and I collaborated during her visit to Georgia Tech as an exchange student through her home university, KAIST, in South Korea. We worked together on my project studying the <a href="https://hchoilab.github.io/corticalRNN/" target="_blank">architectural biases of the canonical cortical microcircuit under the purview of predictive coding</a>, leading to a <a href="https://www.biorxiv.org/content/10.1101/2024.05.23.595629v1/" target="_blank">journal paper</a> and a <a href="https://www.youtube.com/live/0eSzx_cvqJU?feature=share&t=3930" target="_blank">Cosyne talk</a> (as well as a conference poster presentation for Suhee herself!). Suhee is <a href="https://profiles.stanford.edu/suhee-cho" target="_blank">now</a> at Dr. Jay McClelland's lab at Stanford!
